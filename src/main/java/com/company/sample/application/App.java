@@ -51,9 +51,8 @@ public class App {
     }
 
     private void load2(){
-        for (int i =0; i< 1 << 20; ++i){
+        for (int i =0; i< 1 << 30; ++i){
             computeLong();
-	    computeMedium();
         }
     }
 
