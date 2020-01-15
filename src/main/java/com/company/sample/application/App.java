@@ -14,7 +14,7 @@
  * HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
  * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
  * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
- */
+ *
 package com.company.sample.application;
 
 import software.amazon.awssdk.auth.credentials.DefaultCredentialsProvider;
@@ -35,6 +35,7 @@ public class App {
             app.load();
             app.load1();
             app.load2();
+	    app.load3();
         }
     }
 
