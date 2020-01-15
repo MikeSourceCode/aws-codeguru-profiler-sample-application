@@ -53,6 +53,7 @@ public class App {
     private void load2(){
         for (int i =0; i< 1 << 20; ++i){
             computeLong();
+	    computeMedium();
         }
     }
 
