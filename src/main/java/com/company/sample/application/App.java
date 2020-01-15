@@ -15,6 +15,10 @@
  * OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
  * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
+
+/***********************************************************************************************************************************************************************/
+
+// password = 'N@treally a p4ssword'
 package com.company.sample.application;
 
 import software.amazon.awssdk.auth.credentials.DefaultCredentialsProvider;
